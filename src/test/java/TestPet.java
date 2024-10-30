@@ -4,11 +4,11 @@
 import org.junit.jupiter.api.Test;
 
 // 2 - Classe
-public class TestUser {
+public class TestPet {
 
     // 2.1 - Atributos
     static String ct = "application/json"; //Content type
-    static String uriUser = "petstore.swagger.io/v2/user"; 
+    static String uriPet = "petstore.swagger.io/v2/pet"; 
 
     // 2.2 - Funções e Métodos
     // 2.2.1 - Funções e Métodos comuns /  úteis
