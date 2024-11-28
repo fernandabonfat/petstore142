@@ -1,0 +1,4 @@
+petId,petName,catId,catName,status1,status2
+748230603,Scooby,1,cachorro,available,sold
+748230604,Bichento,2,gato,available,sold
+748230605,Nemo,3,peixe,available,sold
